@@ -13,14 +13,6 @@ A lot of my projects are driven by curiosity and hands-on experimentation:
 - 🤖 AI-assisted workflow automation
 - 🎥 Programmatic video and media generation
 
-Some notable repositories include:
-
-- **e-commerce** → experimentation with synchronous vs event-driven systems
-- **cryptography-basics-web** → practical cryptography concepts for web engineering
-- **poc-encrypt-flask-reactjs** → ECIES implementation using Flask + ReactJS
-- **covid-dashboard** → ReactJS + Spring Boot dashboard implementation
-- **responsive-cv** → responsive portfolio architecture with reusable React components
-
 I care deeply about:
 
 - Writing clean and maintainable systems
